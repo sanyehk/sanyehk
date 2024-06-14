@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanyehk
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m a recent b.s. graduate ready to demonstrate my knowledge!
+- 🌱 I’m a recent b.s. graduate here to demonstrate my knowledge!
 
 <!---
 sanyehk/sanyehk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
