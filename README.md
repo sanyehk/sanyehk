@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Elastic SIEM Lab (Elastic Cloud)</b>
--🛠️ [Setting up the "Simple" SIEM](x)
+-🛠️ [Setting up the "Simple" SIEM](https://github.com/sanyehk/ElasticSIEMLAB/tree/main)
 - <b> At Home SOC Lab (LetsDefend)</b>
 -🛠️[Building a SOC Lab at Home: A Step-by-Step Guide Using LetDefend](x) <b>
 - <b>Active Directory</b>
@@ -25,7 +25,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]: (https://www.linkedin.com/in/alexis-nelson-4b5440263/)
+[LINKEDIN](https://www.linkedin.com/in/alexis-nelson-4b5440263/)
 
 <!---
 sanyehk/sanyehk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
