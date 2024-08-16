@@ -4,8 +4,8 @@
 
 - <b> Elastic SIEM Lab (Elastic Cloud)</b>
 -🛠️ [Setting up the "Simple" SIEM](https://github.com/sanyehk/ElasticSIEMLAB/tree/main)
-- <b> At Home SOC Lab (LetsDefend)</b>
--🛠️[Building a SOC Lab at Home: A Step-by-Step Guide Using LetDefend](x) <b>
+- <b> x</b>
+-🛠️[](x) <b>
 - <b>Active Directory</b>
   - [Coming Soon](x)
   
